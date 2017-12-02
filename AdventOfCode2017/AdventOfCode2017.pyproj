@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f1e81998-7aa7-41ee-a1c9-8d05df0d02ef</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day1\Part2.py</StartupFile>
+    <StartupFile>Day2\Part2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,9 +24,16 @@
     <Compile Include="Day1\Part1.py" />
     <Compile Include="Day1\Part2.py" />
     <Compile Include="Day1\Part2.py" />
+    <Compile Include="Day2\Part1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Day2\Part2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day1\" />
+    <Folder Include="Day2\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.md" />
